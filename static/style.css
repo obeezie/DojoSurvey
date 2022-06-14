@@ -1,0 +1,57 @@
+h1{
+    color: rgb(44, 83, 125);
+    text-decoration: underline;
+}
+
+p{
+    margin: 16px 0px;
+    color:rgb(44, 83, 125);
+    font-weight: 600;
+}
+
+.polldata{
+    background-color: rgb(131, 214, 131);
+    width: 500px;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+.answers{
+    margin: 5px 0px;
+    font-size: larger;
+}
+
+.container{
+    color: rgb(44, 83, 125);
+    justify-content: center;
+}
+
+.form{
+    font-size: 20px;
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px 50px;
+    background-color: rgb(131, 214, 131);
+}
+
+.form input, select, textarea{
+    width: 100%;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+}
+
+#submit{
+    margin-top: 5px;
+}
+
+#home{
+    margin: 15px 0px;
+    text-align: center;
+}
+
+
+
